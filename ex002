@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Parágrafos de quebra de linhas</h1>
+    <hr>
+    <p> Qualquer paragrafo pode ficar de qualquer jeito estando entre os < > parenteses</p>
+<p> se precisar quebrar o texto voce pode usar a  tag &lt;br&gt;.</p>
