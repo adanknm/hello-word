@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hieraquia de titulos</title>
+    <link rel="shortcut icon" href="vsico.ico" type="image/x-icon">
+</head>
+<body>
+
+    <h1> Entedendo Portugal</h1>
+    <h2>Introduçao</h2>
+    <h3> carater excpcional </h3>
+    <h4>justificando tematica </h4>
+    <p>Ipsum lorem</p>
+    <h2> Os instrumentos execiais</h2>
+    <h3>Tudo sobre sobre instrumentos</h3>
+    <h4> Instrumentos gerais</h4>
+    <p>Lorem Ipsum</p>
+    <h1> Esse e um texto grande</h1>
+    <p> colocando uma ordem no site</p>
+    <h2>Este e um texto menor </h2>
+    <p> colocando meu texto como sematica </p>
+    <h3>Este e um texto um pouco menor</h3>
+    <p> um paragrafo para meu titulo um pouco menor</p>
+    <h4> Este e um document menor ainda</h4>
+    <p> um paragrafo para meu texto um pouco menor ainda</p>
+    
+</body>
+</html>
